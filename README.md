@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alexsdt33
-- 👀 I’m interested in crypto
--<h1 align="center">Hi 👋, I'm AlexSdt</h1>
+
+-<h1 align="center">Hi 👋, I'm Alex Sdt</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 How to reach me **al.exsdt3@gmail.com**
