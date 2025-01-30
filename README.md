@@ -1,5 +1,5 @@
 
--<h1 align="center">Hi 👋, I am Alex Sddt </h1>
+-<h1 align="center">Hi 👋, I am Alex Sdt </h1>
 -<h1 align="center">Nice to meet you and welcome in my page</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
